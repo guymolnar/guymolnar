@@ -1,8 +1,8 @@
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Guy
 
-High school student in the Magshimim National Cyber Program, focused on low-level systems programming and offensive security. I build tools in C++ and Python — network attack/defense utilities.
+• High school student in the Magshimim Cyber Program, focused on offensive security and exploit development. Building C++ and Python tools for network exploitation, protocol manipulation, and in-memory execution.
 
-Currently working on GhostRun (C++ AES-encrypted LSB steganography loader for in-memory shellcode execution) and MITMSuite (Python MITM framework). Currently learning Windows internals, network protocol security (NTLM, ARP), and advanced C++ (CMake, modern idioms, concurrency).
+• Currently working on GhostRun (C++ AES-encrypted LSB steganography loader for in-memory shellcode execution) and MITMSuite (Python MITM framework). 
 
 ## • Tech Stack
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=gnu&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
