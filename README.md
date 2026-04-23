@@ -16,8 +16,8 @@ Currently working on GhostRun (C++ AES-encrypted LSB steganography loader for in
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.shion.dev/api?username=guymolnar&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true" /></td>
-    <td><img src="https://streak-stats.demolab.com/?user=guymolnar&theme=aura_dark&hide_border=false" /></td>
+    <td><img src="https://github-readme-stats.shion.dev/api?username=guymolnar&bg_color=282c34&title_color=61afef&text_color=abb2bf&icon_color=e06c75&hide_border=false&include_all_commits=true&count_private=true" /></td>
+    <td><img src="https://streak-stats.demolab.com/?user=guymolnar&background=282c34&stroke=181a1f&ring=61afef&fire=e06c75&currStreakNum=abb2bf&sideNums=abb2bf&currStreakLabel=61afef&sideLabels=abb2bf&dates=5c6370&hide_border=false" /></td>
   </tr>
 </table>
 
