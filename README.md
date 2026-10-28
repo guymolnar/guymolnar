@@ -9,5 +9,6 @@
 | Project | Stack | What it is |
 |---|---|---|
 | [**SPIDER**](https://github.com/guymolnar/spider) | C++ · NFQUEUE · libpcap · Docker | Inline NIPS that blocks ARP spoofing, SYN/UDP/ICMP floods, DHCP starvation and SQL injection |
+| [**Trivia**](https://github.com/guymolnar/Trivia) | C++ server · C# WPF client · SQLite · Crypto++ | (Magshimim second year project) Multithreaded full stack trivia game with a custom AES-encrypted binary protocol and a handler-based state machine |
 | [**GhostRun**](https://github.com/guymolnar/ghostrun) | C++ | Steganography tool that hides AES-256-encrypted data in images using LSB encoding |
 | [**MITMSuite**](https://github.com/guymolnar/mitmsuite) | Python · Scapy | Modular man-in-the-middle framework with ARP spoofing, DNS spoofing and HTTP proxy modules |
